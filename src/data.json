@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Pulpen",
+    "stok": 100
+  },
+  {
+    "id": 2,
+    "namaBarang": "Pensil",
+    "stok": 150
+  },
+  {
+    "id": 3,
+    "namaBarang": "Buku Tulis",
+    "stok": 200
+  },
+  {
+    "id": 4,
+    "namaBarang": "Penggaris",
+    "stok": 75
+  },
+  {
+    "id": 5,
+    "namaBarang": "Penghapus",
+    "stok": 50
+  },
+  {
+    "id": 6,
+    "namaBarang": "Spidol",
+    "stok": 120
+  },
+  {
+    "id": 7,
+    "namaBarang": "Amplop",
+    "stok": 60
+  },
+  {
+    "id": 8,
+    "namaBarang": "Map Plastik",
+    "stok": 90
+  },
+  {
+    "id": 9,
+    "namaBarang": "Stapler",
+    "stok": 30
+  },
+  {
+    "id": 10,
+    "namaBarang": "Kertas A4",
+    "stok": 300
+  },
+  {
+    "id": 11,
+    "namaBarang": "Kertas A3",
+    "stok": 700
+  }
+]
